@@ -7,9 +7,5 @@ I'm @jiegec, a PhD candidate at Tsinghua University. Visit my websites:
 - [ctf](https://jia.je/ctf-writeups/)
 
 <picture>
-  <img alt="Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiegec&theme=default&show_icons=true&count_private=true&card_width=320">
-</picture>
-
-<picture>
-  <img alt="Top Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiegec&theme=default&show_icons=true&layout=compact">
+  <img alt="Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiegec&theme=default&show_icons=true&count_private=true">
 </picture>
