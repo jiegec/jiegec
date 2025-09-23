@@ -6,6 +6,10 @@ I'm @jiegec, a PhD candidate at Tsinghua University. Visit my websites:
 - [loongarch intrinsics](https://jia.je/unofficial-loongarch-intrinsics-guide/)
 - [ctf](https://jia.je/ctf-writeups/)
 
-![jiegec's Stats](https://github-readme-stats.vercel.app/api?username=jiegec&theme=default&show_icons=true&hide_border=true&count_private=true&card_width=320)
+<picture>
+  <img alt="Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiegec&theme=default&show_icons=true&count_private=true&card_width=320">
+</picture>
 
-![jiegec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiegec&theme=default&show_icons=true&hide_border=true&layout=compact)
+<picture>
+  <img alt="Top Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiegec&theme=default&show_icons=true&layout=compact">
+</picture>
