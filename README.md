@@ -6,6 +6,4 @@ I'm @jiegec, a PhD candidate at Tsinghua University. Visit my websites:
 - [loongarch intrinsics](https://jia.je/unofficial-loongarch-intrinsics-guide/)
 - [ctf](https://jia.je/ctf-writeups/)
 
-<picture>
-  <img alt="Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiegec&theme=default&show_icons=true&count_private=true&count_private=true">
-</picture>
+[![jiegec's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiegec)](https://github.com/anuraghazra/github-readme-stats)
