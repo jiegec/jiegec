@@ -1,4 +1,4 @@
-I'm @jiegec, a PhD graduage of Tsinghua University. Visit my websites:
+I'm @jiegec, a PhD graduate of Tsinghua University. Visit my websites:
 
 - [blog](https://jia.je/)
 - [knowledge base](https://jia.je/kb/)
